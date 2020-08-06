@@ -1,7 +1,7 @@
 # What's this
 Audible Listening Time Calculator is an app that helps you calculate your listening time to the books that are in the Audible app.
 # What is Audible?
-[Audible][www.audible.com] is an audio books company owned by Amazon. In Audible, you can find all sorts of books in an audio format.
+[Audible](www.audible.com) is an audio books company owned by Amazon. In Audible, you can find all sorts of books in an audio format.
 From what I know, they offer a lot of stuff, not just books. However, my experience with them personally is just with listening to books.
 The books they have are actually are in high quality, although a bit expensive. Sometimes, they do book sales and you can buy books at a discounted price, or even you can buy the audio book at a discounted price if you buy the kindle version of the same book first.
 # Why did I create this?
