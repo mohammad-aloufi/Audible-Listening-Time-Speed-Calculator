@@ -28,10 +28,8 @@ def main():
             print('Your listening time is {} hours'.format(time))
             #Lets see if the user wants to do another calculation and act on that
             question=input('Would you like to do another calculation?')
-            if question =='yes':
+            if question.lower() != 'yes': 
                 break
-            else:
-                sys.exit()
 
 
 #Welcome aboard
