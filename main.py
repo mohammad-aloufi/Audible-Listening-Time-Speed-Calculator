@@ -1,5 +1,3 @@
-#We need sys to show us the way out of this mideval calculator
-import sys
 #We need timedelta, timedelta we need. We'll use it for converting the time in a bit
 from datetime import timedelta
 
