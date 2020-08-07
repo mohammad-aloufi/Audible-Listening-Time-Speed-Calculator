@@ -14,7 +14,6 @@ def main():
         #if the string for hours and minutes aren't digits we tell the user that something is wrong with their input. Else we convert everything to ints, and the speed to float
         if hours.isdigit() ==False or minutes.isdigit() ==False:
             print('Error, unexpected input')
-            main()
         else:
             hour=int(hours)
             minute=int(minutes)
